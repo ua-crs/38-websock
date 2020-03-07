@@ -1,5 +1,5 @@
 #   Project 38-websock
-##  Uso de Websocks para manejar sistemas cerca tiempo real
+##  Uso de Websocks para manejar sistemas cuasi tiempo real
 
 - Proyecto preparado para usar con las siguientes placas:
     - Wemos D1 R2   (_ESP8266_)
